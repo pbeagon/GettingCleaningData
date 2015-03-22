@@ -24,8 +24,14 @@ and std measures
 
 ## Step 3 Variables 
 
-*y_total* Concatenated table of the activity labels. <br>
+*y_total* Concatenated table of the activity labels from test and train phases. <br>
 
 This table contains two columns on Step 3 completion: activityLabel and activityDescription
 
 ## Step 4 Variables
+
+*measuresList* List of relevant measurement variable names during cleaning
+*measuresFinal*  List of relevant measurement variable names after cleaning and trimming.
+*subject_total* Concatenated table of the activity labels from test and train phases
+*datasetFinal* Final dataset after combining columns of subjects, activity description <br>
+and activity normalised numerical figures.
