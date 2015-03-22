@@ -2,7 +2,7 @@
 
 Note: all the read-in data, from .txt assumed the first row was not a header.
 
-## Step 1 Variable
+## Step 1 Variables
 
 *X_test*  Read-in table of data from X_test.txt, the variables data from test phase <br>
 *y_test*  Read-in table of data from y_test.txt, the variables labels from test phase <br>
@@ -12,7 +12,7 @@ Note: all the read-in data, from .txt assumed the first row was not a header.
 *X_total* Concatenated table of the activity data of all variables of both test and train <br>	
 
 
-## Step 2
+## Step 2 Variables
 *features* Read-in table for data from the features.txt. A list of activities which are <br>
 variables of normalised numerical data.
 
@@ -20,3 +20,12 @@ variables of normalised numerical data.
 and std measures
 
 *dataset* data table of all the activity variables without activity decription or subject Ids
+
+
+## Step 3 Variables 
+
+*y_total* Concatenated table of the activity labels. <br>
+
+This table contains two columns on Step 3 completion: activityLabel and activityDescription
+
+## Step 4 Variables
