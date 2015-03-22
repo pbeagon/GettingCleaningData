@@ -52,7 +52,7 @@ Activity measurement variables contain the normalised numerical data.
 A total of 79 variables are considered relevant due to matching on -mean or -std.
 The evolution of the variable names through the scripts generated tables appears below.
 
-** measuresFinal	datasetFinal	Tidy_total  **
+**measuresFinal**	**datasetFinal**	**Tidy_total**
 tBodyAcc-mean()-X	tBodyAccMeanX	averagetBodyAccMeanX               
 tBodyAcc-mean()-Y	tBodyAccMeanY	 averagetBodyAccMeanY               
 tBodyAcc-mean()-Z	tBodyAccMeanZ	 averagetBodyAccMeanZ               
