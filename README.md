@@ -1,16 +1,16 @@
 ## Summary 
-This script follows the steps outlined in the project requirements 
+This script follows the steps outlined in the project requirements <br>
 [https://class.coursera.org/getdata-012/human_grading/view/courses/973499/assessments/3/submissions]
 
 > You should create one R script called run_analysis.R that does the following.<br>
 > 1. Merges the training and the test sets to create one data set.\s\s
-> 2. Extracts only the measurements on the mean and standard deviation for each measurement.\s\s
-> 3. Uses descriptive activity names to name the activities in the data set.\s\s
-> 4. Appropriately labels the data set with descriptive variable names.\s\s
-> 5 From the data set in step 4, creates a second, independent tidy data set with the\s\s
-average of each variable for each activity and each subject.\s\s
+> 2. Extracts only the measurements on the mean and standard deviation for each measurement.<br>
+> 3. Uses descriptive activity names to name the activities in the data set.<br>
+> 4. Appropriately labels the data set with descriptive variable names.<br>
+> 5 From the data set in step 4, creates a second, independent tidy data set with the<br>
+average of each variable for each activity and each subject.<br>
 
-Main Source is Coursera discussion led by TA David Hood
+Main Source is Coursera discussion led by TA David Hood <br>
 [https://class.coursera.org/getdata-012/forum/thread?thread_id=9]
  
 
@@ -40,7 +40,7 @@ extracted as measures.
 
 
 # Step 3 
-From the previously mentioned source of a Coursera discussion 
+From the previously mentioned source of a Coursera discussion <br>
 [https://class.coursera.org/getdata-012/forum/thread?thread_id=9]
 
 >Is descriptive activity names things like "Walking" and "Walking Up"
