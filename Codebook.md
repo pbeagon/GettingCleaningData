@@ -19,7 +19,7 @@ variables of normalised numerical data.
 *extracted_measures* A list of integers matching the relevant variable columns of mean <br>
 and std measures
 
-*dataset* data table of all the activity variables without activity decription or subject Ids
+*dataset* data table of all the activity variables without activity description or subject Ids
 
 
 ## Step 3 Variables 
@@ -30,8 +30,16 @@ This table contains two columns on Step 3 completion: activityLabel and activity
 
 ## Step 4 Variables
 
-*measuresList* List of relevant measurement variable names during cleaning
-*measuresFinal*  List of relevant measurement variable names after cleaning and trimming.
-*subject_total* Concatenated table of the activity labels from test and train phases
+*measuresList* List of relevant measurement variable names during cleaning <br>
+*measuresFinal*  List of relevant measurement variable names after cleaning and trimming <br>
+*subject_total* Concatenated table of the activity labels from test and train phases <br>
 *datasetFinal* Final dataset after combining columns of subjects, activity description <br>
-and activity normalised numerical figures.
+and activity normalised numerical figures. <br>
+
+
+## Step 5 Variables
+
+*tidy_activity* Data grouped by activity and subjected to mean average function <br>
+*tidy_subject* Data grouped and sorted by subjectID and subjected to mean average function <br>
+*tidy_total* Combination of tidy_activity and tidy_subject data tables, including tidiness <br>
+added to group column explaining the values. This data is written to file and submitted.
