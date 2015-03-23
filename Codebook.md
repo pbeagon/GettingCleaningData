@@ -49,8 +49,8 @@ added to group column explaining the values. This data is written to file and su
 ## Tidying of Activity Measurement Variables
 
 Activity measurement variables contain the normalised numerical data.
-A total of 79 variables are considered relevant due to matching on -mean or -std.
-The evolution of the variable names through the scripts generated tables appears below.
+A total of 79 variables are considered relevant due to matching on "-mean" or "-std".
+The evolution of the variable names through the script generated tables appears below.
 
 | **measuresFinal**               | **datasetFinal**             | **Tidy_total**                      |
 |---------------------------------|------------------------------|-------------------------------------|
